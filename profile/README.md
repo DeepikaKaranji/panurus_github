@@ -1,0 +1,5 @@
+# Panurus, an LF Decentralized Trust project.
+
+Panurus is an Apache 2.0 licensed, mature, production-grade framework for issuing, transferring, and managing tokens on permissioned blockchain networks. Active since 2021 with proven deployments in wholesale CBDC experiments (Banque de France DL3S, Bank of Canada Project Samara), the SDK provides comprehensive token infrastructure including fungible and non-fungible token support, multiple privacy levels (cleartext FabToken and privacy-preserving ZKAT-DLog with zero-knowledge proofs), and a complete service layer for transaction orchestration, identity management, auditing, and cross-chain atomic swaps. Its driver-based architecture enables network agnosticity across Hyperledger Fabric, FabricX, and other DLT platforms, allowing core application logic to remain portable while the SDK handles backend-specific integration. By standardizing token models and flows under vendor-neutral LFDT governance, the SDK reduces duplication across projects, strengthens security through collaborative review, and establishes a reusable tokenization layer for enterprise blockchain deployments handling real-world financial assets.
+
+
